@@ -6,7 +6,7 @@
 
 | Image                                                        | Vector                                                       | Source File                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="Devices/Weston/Model 1/Weston Model 1 - Weston's Direct Reading Volt-Meter 0-150 No 426.jpg" alt="Scale" style="zoom:10%;" /> | <img src="Devices/Weston/Model 1/Weston Model 1 - Weston's Direct Reading Volt-Meter 0-150 No 426.pdf" alt="Scale" style="zoom:70%;" /> | [Weston Model 1 - Weston's Direct Reading Volt-Meter 0-150 No 426.ai](Devices/Weston/Model 1/Weston Model 1 - Weston's Direct Reading Volt-Meter 0-150 No 426.ai) |
+| <img src="Devices/Weston/Model 1/Weston Model 1 - Weston's Direct Reading Volt-Meter 0-150 No 426.jpg" alt="Scale" style="zoom:10%;" /> | <img src="Devices/Weston/Model%201/Weston%20Model%201%20-%20Weston's%20Direct%20Reading%20Volt-Meter%200-150%20No%20426.pdf" alt="Scale" style="zoom:70%;" /> | [Weston Model 1 - Weston's Direct Reading Volt-Meter 0-150 No 426.ai](Devices/Weston/Model%201/Weston%20Model%201%20-%20Weston's%20Direct%20Reading%20Volt-Meter%200-150%20No%20426.ai) |
 
 
 
@@ -14,7 +14,7 @@
 
 | Image                                                        | Vector                                                       | Source File                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="Devices/Weston/Model 1/Weston Model 1 - Weston's Direct Reading Am-Meter 0-150 No 923.png" alt="Scale" style="zoom:10%;" /> | <img src="Devices/Weston/Model 1/Weston Model 1 - Weston's Direct Reading Am-Meter 0-150 No 923.pdf" alt="Scale" style="zoom:60%;" /> | [Weston Model 1 - Weston's Direct Reading Am-Meter 0-150 No 923.ai](Devices/Weston/Model 1/Weston Model 1 - Weston's Direct Reading Am-Meter 0-150 No 923.ai) |
+| <img src="Devices/Weston/Model 1/Weston Model 1 - Weston's Direct Reading Am-Meter 0-150 No 923.png" alt="Scale" style="zoom:10%;" /> | <img src="Devices/Weston/Model%201/Weston%20Model%201%20-%20Weston's%20Direct%20Reading%20Am-Meter%200-150%20No%20923.pdf" alt="Scale" style="zoom:60%;" /> | [Weston Model 1 - Weston's Direct Reading Am-Meter 0-150 No 923.ai](Devices/Weston/Model%201/Weston%20Model%201%20-%20Weston's%20Direct%20Reading%20Am-Meter%200-150 No%20923.ai) |
 
 
 

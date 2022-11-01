@@ -4,9 +4,9 @@ The letters and numbers on old meters were often hand-lettered or derived from h
 
 ## Original recreations
 
-**Weston Model 1 Expanded:** Imitates the lettering found on some very early Weston meters, especially the Model 1. Uppercase alphabetic glyphs only with alternate narrower width versions of some glyphs (ETFN). ([Font](WestonModel1-Expanded.ttf), [FontLab source](WestonModel1-Expanded.vfc).)
+**[Weston Model 1 Expanded](WestonModel1-Expanded.ttf):** Imitates the lettering found on some very early Weston meters, especially the Model 1. Uppercase alphabetic glyphs only with alternate narrower width versions of some glyphs (ETFN). ([Font](WestonModel1-Expanded.ttf), [FontLab source](WestonModel1-Expanded.vfc).)
 
-**Wechselstromskala Regular:** Imitates the lettering found on the German PUM.1 ammeter/voltmeter. ([Font](Wechselstromskala-Regular.ttf), [FontLab source](Wechselstromskala-Regular.vfc).)
+**[Wechselstromskala Regular](Wechselstromskala-Regular.ttf):** Imitates the lettering found on the German PUM.1 ammeter/voltmeter. ([Font](Wechselstromskala-Regular.ttf), [FontLab source](Wechselstromskala-Regular.vfc).)
 
 ## Hosted elsewhere
 

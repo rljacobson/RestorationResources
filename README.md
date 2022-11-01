@@ -2,7 +2,7 @@
 
 This repository focuses primarily on digital assets for restoring vintage or antique meters and gauges. In particular, accurate scales for several devices are available.
 
-## [Typefaces](Typefaces/Typefaces.md)
+## [Typefaces](Typefaces.md)
 
 The letters and numbers on old meters were often hand-lettered or derived from hand-lettered masters, or they were reproduced from typefaces used on engraving machines. As a consequence, there is typically no suitable digital font substitute. In a couple of cases I have created my own font. In other cases, I have drawn the letters and numbers manually. Rarely, however, there is a font that reasonably approximates the original.
 
